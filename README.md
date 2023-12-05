@@ -3,9 +3,9 @@ I created this software as an project from a college student from Canada. It was
 
 What does this software do?
 
--This is an auction website where sellers setup items for sales and the buyers bid for the items. This goes on till the closing time of the bidding, thus seeling it to the highest bidder within that period.
+-This is an auction website where sellers setup items for sales and the buyers bid for the items. This goes on till the closing time of the bidding, thus selling it to the highest bidder within that period.
 
--The highest bidder will be sent an email regarding the ending off the bidding contest for the respective item, announcing them as the winner whereas giving them a link to the Paypal to perform the payments for the item.
+-The highest bidder will be sent an email regarding the ending of the bidding contest for the respective item, announcing them as the winner whereas giving them a link to the Paypal to perform the payments for the item.
 
 -For the testing, I used paypal sandbox accounts to create a real time environment and give a nice demonstration of how everything would work out.
 
